@@ -16,7 +16,7 @@ transformers >= 2.8.0
 
 ## Перед запуском `Test_model.ipynb`
 
-[Скачиваем](https://drive.google.com/file/d/1nGDOjb2Gj8Wi6BRFw2MeQwNtLpsV_48Z/view?usp=sharing) и распаковываем 'best_model_state.zip' в папку Model
+[Скачиваем](https://drive.google.com/file/d/17_DeclRP1Ta9mEA5aP1Dgffnmnlj_Xr7/view?usp=sharing) и распаковываем 'Model.zip' в корневую папку
 
 ## Результат работы моделе на тестовой выборке:
 
