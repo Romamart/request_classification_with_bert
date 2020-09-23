@@ -2,10 +2,7 @@
 
 Python 3.7 or later with the following `pip3 install -U -r requirements.txt` packages:
 
-numpy >= 1.18.2
-pandas >= 1.0.3
-torch >= 1.4.0
-transformers >= 2.8.0
+numpy >= 1.18.2'\n'pandas >= 1.0.3'\n'torch >= 1.4.0'\n'transformers >= 2.8.0
 
 Убедитесь что уже установлена и работает `CUDA`
 
